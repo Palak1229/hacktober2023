@@ -7,3 +7,5 @@ make some changes either add file or edit file
 commit changes
 
 then create pull request
+push it on the server 
+
